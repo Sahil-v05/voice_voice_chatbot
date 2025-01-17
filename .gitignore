@@ -1,0 +1,18 @@
+# ignore the bytecode
+__pycache__/
+
+# ignore the virtual environment
+.venv/
+
+# ignore the ffmpeg binary
+ffmpeg/
+
+# ignore the gradio
+.gradio/
+
+# ignore the extra file
+extra_file/
+
+# ignore the api_key environment variable
+.env/
+
