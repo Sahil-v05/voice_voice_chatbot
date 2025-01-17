@@ -22,8 +22,10 @@ Text-to-Speech: The generated response is converted back into speech and played 
 
 ## 1.Setup
 Install the required dependencies
-''' bash
-pip install -r requirement.txt
+```bash
+pip install -r requirements.txt
+```
+
 
 ## 2.Set up environment variables
 
@@ -31,5 +33,6 @@ Create a .env file in the root directory.
 Add your Deepgram API key, groq api key and other necessary environment variables.
 
 ## 3.Run the application
-''' bash
+``` bash
 streamlit run app.py
+```
