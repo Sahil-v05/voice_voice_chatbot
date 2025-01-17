@@ -1,0 +1,8 @@
+deepgram-sdk
+requests
+python-dotenv
+groq
+langchain_groq
+langchain-community
+PyAudio
+streamlit
